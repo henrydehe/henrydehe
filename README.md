@@ -3,3 +3,4 @@
 - 🎓 I'm currently completing a Master of Public Administration at LSE.
 - 📫 How to reach me: henrydehe@outlook.com.
 - 🏠 My [Github Blog](https://henrydehe.github.io/).
+- 🗞 My [Medium](https://medium.com/@henrydehe).
