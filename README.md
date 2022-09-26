@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henrydehe
-- 👀 I’m interested in using data science and causal analysis for answering questions of public policy.
+- 👀 I’m interested in using data science and causal analysis for evaluating and designing public policies.
 - 🌱 Much of my work focuses on environmental policy.
 - 🎓 I studied public administration at LSE where I specialised in economic policy.
 - 📫 How to reach me: henrydehe@outlook.com.
