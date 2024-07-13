@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @henrydehe
-- 👀 I’m interested in using data science and causal analysis for evaluating and designing public policies.
-- 🌱 Much of my work focuses on environmental policy.
-- 🎓 I studied public administration at LSE where I specialised in economic policy.
+- 🌱 I’m a consultant within McKinsey’s sustainability practice. I’m particularly interested in the economics of the green energy transition. Previously, I worked for the OECD. 
+- 🎓 I completed an MPA at LSE. 
 - 📫 How to reach me: henrydehe@outlook.com.
-- 🏠 My [Github Blog](https://henrydehe.github.io/) (still under construction). 
+- 🏠 My [Webpage](https://henrydehe.github.io/). 
 - 🗞 My [Medium](https://medium.com/@henrydehe).
