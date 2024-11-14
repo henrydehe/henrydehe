@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henrydehe
-- 🌱 I’m a consultant within McKinsey’s sustainability practice. I’m particularly interested in the economics of the green energy transition. Previously, I worked for the OECD. 
+- 🌱 I work primarily on sustainability and environmental economics projects. I'm ex-Mckinsey & ex-OECD. 
 - 🎓 I completed an MPA at LSE. 
 - 📫 How to reach me: henrydehe@outlook.com.
 - 🏠 My [Website](https://henrydehe.github.io/). 
